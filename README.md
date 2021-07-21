@@ -12,7 +12,7 @@ Publications:	Dr. Zhan has published more than twenty papers, participated in th
 
 ### Representative Paper
 
-1.	Ying Zhan, Dan Hu, Haitao Wang, Xianchuan Yu, “Semisupervised Hyperspectral Image Classification Based on Generative Adversarial Networks,” IEEE Geoscience and Remote Sensing Letters, vol. 15, no. 2, pp. 212-216, 2018. （SCI，IF=3.5，Cited 70 times on Google Scholar）
+1.	Ying Zhan, Dan Hu, Haitao Wang, Xianchuan Yu, “Semisupervised Hyperspectral Image Classification Based on Generative Adversarial Networks,” IEEE Geoscience and Remote Sensing Letters, vol. 15, no. 2, pp. 212-216, 2018. （ESI Highly cited，Cited 100 times on Google Scholar）
 2.	Ying Zhan, Dan Hu, Haihua Xing, Xianchuan Yu, “Hyperspectral Band Selection Based on Deep Convolutional Neural Network and Distance Density,” IEEE Geoscience and Remote Sensing Letters , vol. 14, no. 12, pp. 2365-2369, 2017. （SCI，IF=3.5，Cited 27 times on Google Scholar）
 3.	Ying Zhan, Haifeng Tian, Wei Liu, Zhaoying Yang, Kang Wu, Guian Wang, Ping Chen, Xianchuan Yu, “A New Hyperspectral Band Selection Approach Based On Convolutional Neural Network,” in IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Jul. 2017, Fort Worth, USA, pp. 3660-3663. （EI, Oral talk）
 4.	Ying Zhan, Kang Wu, Wei Liu, “Semi-Supervised Classification Of Hyperspectral Data Based On Generative Adversarial Networks And Neighborhood Majority Voting, ” in 2018 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2018, pp. 5756-5759 （EI, Oral talk）

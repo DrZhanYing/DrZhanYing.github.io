@@ -5,17 +5,6 @@ Associate Professor, School of Software, Nanyang Institute of Technology.
 
 [drzhanying.github.io](https://drzhanying.github.io/)
 
-Dr. Ying Zhan was born in Jingzhou City, Hubei Province, China on 16 Oct. 1978.  He moved to Nanyang city, Henan province from the age of 12. He graduated from Zhengzhou University in 2000 with a Bachelor of Degree in Computer Science. 
-
-His first assignment was to the Henan Institute of Science and Technology at Henan Province, China, where he worked on computer science teacher. From 2004, he worked as a computer teacher in Nanyang Institute of Technology, China.
-
-Starting in 2006, he attended the Huazhong University of Science and Technology (HUST), Wuhan City, China, graduating in 2008 with a Master degree in Computer Engineering. He was a visiting scholar at East Stroudsburg University (ESU) in 2013. Starting in 2015, he attended the Beijing Normal University (BNU), graduating in 2019 with a Ph.D. in Computer Science. His supervisor was Prof. Xianchuan Yu. During doctoral studies, the main research content is the application of deep learning in Hyperspectral images (HSIs) classification.
-
-His research interests include deep learning, remote sensing image processing, machine learning, and multimedia technologies. In the course of his research, the following methods were proposed: the HSIs band selection method based on deep convolutional neural network (CNN), HSI semisupervised classification model based on generative adversarial networks (GAN) with the spectral angle distance (SAD) loss function and HSIs spectral-spatial classification methods based on mutually guided image filter (muGIF) and deep learning.
-
-He has published more than twenty papers, participated in the translation of one professional book, and edited five teaching materials, and participated in two national science foundation and four provincial and ministerial projects of China.
-
-
 ### Research Field and Publications
 
 Research Field: Deep learning, artificial intelligence, remote sensing image processing, hyperspectral image processing, multimedia technologies.
@@ -65,3 +54,14 @@ Science and Technology Press, ISBN 7-81065-862X/TP.577.
 https://scholar.google.com.hk/citations?user=vSKMgNMAAAAJ&hl=zh-CN
 
 
+### Biography
+
+Dr. Ying Zhan was born in Jingzhou City, Hubei Province, China on 16 Oct. 1978.  He moved to Nanyang city, Henan province from the age of 12. He graduated from Zhengzhou University in 2000 with a Bachelor of Degree in Computer Science. 
+
+His first assignment was to the Henan Institute of Science and Technology at Henan Province, China, where he worked on computer science teacher. From 2004, he worked as a computer teacher in Nanyang Institute of Technology, China.
+
+Starting in 2006, he attended the Huazhong University of Science and Technology (HUST), Wuhan City, China, graduating in 2008 with a Master degree in Computer Engineering. He was a visiting scholar at East Stroudsburg University (ESU) in 2013. Starting in 2015, he attended the Beijing Normal University (BNU), graduating in 2019 with a Ph.D. in Computer Science. His supervisor was Prof. Xianchuan Yu. During doctoral studies, the main research content is the application of deep learning in Hyperspectral images (HSIs) classification.
+
+His research interests include deep learning, remote sensing image processing, machine learning, and multimedia technologies. In the course of his research, the following methods were proposed: the HSIs band selection method based on deep convolutional neural network (CNN), HSI semisupervised classification model based on generative adversarial networks (GAN) with the spectral angle distance (SAD) loss function and HSIs spectral-spatial classification methods based on mutually guided image filter (muGIF) and deep learning.
+
+He has published more than twenty papers, participated in the translation of one professional book, and edited five teaching materials, and participated in two national science foundation and four provincial and ministerial projects of China.
